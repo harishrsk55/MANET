@@ -1,0 +1,29 @@
+* ad hoc networks : spontaniously formed networks when devices connect and communicate with each other. 
+
+* MANET is an abbreviation for mobile ad hocnetwork it is also referred to as wireless ad hoc network it is an uninterrupted self-configuring, infrastructure-less network of mobile devices connected without making use of wires.
+
+=> Characteristics : 
+* no fixed infrastructure (in fixed infrastructure, for example there will be a tower and devices will be connected to that tower)
+* no fixed topology 
+* node in manet can act as either a host or as a router
+* nodes are mobile in nature
+* autonomous
+* distributed(there is no central point in forming connection)
+* limited security(since a malicious user can easily establish connection)
+* energy constained nodes (since nodes are mobile and recharging the nodes could become difficult, ie, at one location the charge of the node will be 90% and after moving to location 2 it could become 60%)
+
+
+=> Properties :
+* fast network establishment
+* peer to peer connectivity
+* independent computation
+* no requirement of access point
+* Less wireless connectivity range(since limitted power supply compared to towers having bigger antenna amd power supply)
+
+
+=> Challenges :
+* Maintaining the topology is difficult since it is dynamic
+* Security is limitted
+* Bandwidth is variable since there is no fixed infrastructure and the bandwifth will be depended upon the power of the device or the node
+* Nodes are energy constrained
+* Routing is difficult since nodes are mobile, bandwidth is variable, possibility of signal loss and resources are limited
