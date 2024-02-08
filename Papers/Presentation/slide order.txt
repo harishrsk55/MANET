@@ -1,0 +1,16 @@
+1. Title Slide
+2. Table of contents
+3. Introduction :
+   => Brief overview of the project
+   => Objectives or goals
+4. Background/Context
+   => Problem Statement
+   => Supporting proof
+5. Literature review
+6. Methodology
+7. Results(visualization)
+8. Discussion
+9. Conclusion
+   => Summary of keypoints
+   => Future work 
+10. Reference
