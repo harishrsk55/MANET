@@ -1,0 +1,16 @@
+A MANET Based Emergency Communication and Information System for Catastrophic Natural Disasters 
+
+The paper discusses the critical need for effective emergency communication systems during catastrophic natural disasters, where the "Golden 72 Hours" are crucial for saving lives. It highlights the challenges faced when traditional communication systems fail, emphasizing the importance of real-time communication for coordinating rescue efforts and allocating resources effectively. The paper proposes a solution using Mobile Ad-Hoc Networks (MANETs) to create a resilient emergency communication system.
+
+The proposed system, called P2Pnet, utilizes WiFi-ready notebook PCs owned by rescue volunteers to form a MANET. This network allows for peer-to-peer communication, supporting services like Walkie-Talkie, Push-to-Talk, and VoIP. The system is designed to be simple and easy to use, catering to the urgent and chaotic nature of disaster situations. The feasibility of the system is based on the widespread availability of compatible notebook PCs and portable power generators.
+
+The paper also discusses the challenges faced in developing such a system, including the need for simple user interfaces and robustness to ensure fault tolerance. It compares the proposed MANET-based system with other emergency communication options like Walkie-Talkies and specially designed mobile communication systems. The study concludes that the proposed P2Pnet system offers a cost-effective and scalable solution for emergency communication in disaster scenarios.
+
+
+
+
+
+
+
+
+
