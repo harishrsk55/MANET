@@ -15,14 +15,5 @@
    => Future work 
 10. Reference
 
-3. INTRODUCTION
 
--> In today's world, the escalating impact of climate change has made natural disasters like fires and floods more frequent and severe, posing significant challenges to communities worldwide. As we grapple with the aftermath of these events, the need for effective disaster management strategies becomes increasingly critical.
-
--> Mobile Ad-Hoc Networks (MANETs) are decentralized networks where unlike traditional networks devices connect directly with each other, without relying on fixed infrastructure. This allows for dynamic communication establishment, even in areas where traditional infrastructure is compromised. MANET emerges as a promising solution to the communication challenges encountered in disaster scenarios even in areas where traditional communication infrastructure is compromised or unavailable.
-
-
-4. Background/Context
-   => Problem Statement
-	->Climate change is making countries more vulnerable to natural disasters like fires and floods. Technology is essential for managing these disasters, but communicating effectively during and after a disaster is difficult. When disasters happen, regular communication systems often stop working, which makes it hard for rescue teams to coordinate. The first 72 hours after a disaster, called the "Golden 72 hours," are critical for saving lives, but without reliable communication systems, rescue efforts are hindered. Finding solutions to establish resilient communication networks capable of withstanding disasters is urgent to ensure timely responses and save lives during emergencies.
 
